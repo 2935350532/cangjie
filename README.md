@@ -1,0 +1,2 @@
+# cangjie
+for lesson work
